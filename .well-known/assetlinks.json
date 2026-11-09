@@ -10,5 +10,17 @@
         "CE:24:A3:98:10:F6:24:7A:9A:24:CA:A4:56:78:1C:F1:07:4D:7E:5C:BC:B1:D3:8B:AD:CD:B8:1D:66:B0:82:B9"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ifindai.app",
+      "sha256_cert_fingerprints": [
+        "BA:B0:02:05:52:86:64:1A:06:F1:A3:F3:9E:57:98:64:4F:92:CE:45:F4:96:09:C3:46:DB:56:25:C4:A0:87:E9"
+      ]
+    }
   }
 ]
